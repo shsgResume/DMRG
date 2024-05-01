@@ -26,6 +26,6 @@ Plots of the energy convergence, the time taken for the simulations, the interac
 
 The entanglement entropy is also a method to measure the correlations between the different sites. The entropy used here is the Von Neumann entripy of entanglement [See_This_paper](https://arxiv.org/abs/hep-th/9303048). It is given by the formula 
 
-```
-$$ S(\rho_A) = -Tr \left[\rho_{A} log \rho_A \right] = -Tr \left[\rho_{B} log \rho_B \right] = S(\rho_B) = - \Sigma_i \alpha^2_i log (\alpha^2_i) $$
-```
+
+$$S(\rho_A) = -Tr \left[\rho_{A} log \rho_A \right] = -Tr \left[\rho_{B} log \rho_B \right] = S(\rho_B) = - \Sigma_i \alpha^2_i log (\alpha^2_i)$$
+
