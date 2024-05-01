@@ -12,7 +12,8 @@ The algorithm proceeds as follows:
 The simulation is self-contained, and users can simply change the variables in the file DMRG_functions.py:
 
 ```
-J = 1.0k = 300
+J = 1.0
+k = 300
 LancStates = 6
 stateSize = [10] 
 ```
